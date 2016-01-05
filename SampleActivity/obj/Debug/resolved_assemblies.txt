@@ -1,0 +1,9 @@
+E:\xamarin\MaterialLoadingProgressbarCSharp-master\SampleActivity\obj\Debug\assemblies\SampleActivity.dll
+E:\xamarin\MaterialLoadingProgressbarCSharp-master\SampleActivity\obj\Debug\assemblies\MaterialLoadingProgressbarCSharp.dll
+E:\xamarin\MaterialLoadingProgressbarCSharp-master\SampleActivity\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\MaterialLoadingProgressbarCSharp-master\SampleActivity\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\MaterialLoadingProgressbarCSharp-master\SampleActivity\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\MaterialLoadingProgressbarCSharp-master\SampleActivity\obj\Debug\assemblies\System.dll
+E:\xamarin\MaterialLoadingProgressbarCSharp-master\SampleActivity\obj\Debug\assemblies\System.Xml.dll
+E:\xamarin\MaterialLoadingProgressbarCSharp-master\SampleActivity\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\xamarin\MaterialLoadingProgressbarCSharp-master\SampleActivity\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
